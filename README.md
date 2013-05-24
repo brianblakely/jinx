@@ -7,3 +7,4 @@ File management for Chrome Dev Tools.
 * Connect to and sync with an FTP location.
 * Version control with git or SVN.
 * Package apps for Chrome Web Store.
+* Create Projects, allowing one to open files and restore settings with a click or tap.
