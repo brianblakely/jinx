@@ -1,5 +1,5 @@
-snowfall
-========
+jinx
+====
 
 File management for Chrome Dev Tools.
 
